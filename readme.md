@@ -9,4 +9,4 @@ Source-code:
 https://github.com/titoBouzout/komodo-tab-save-all
 
 Home-page:
-http://community.activestate.com/node/6814
+http://community.activestate.com/node/6816
