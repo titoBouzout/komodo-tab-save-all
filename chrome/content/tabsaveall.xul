@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  	
+	<!-- tab context menu -->
+  
+	  <menupopup id="tabContextMenu">
+		  
+  		  <menuitem
+			insertafter="menu_saveAs2"
+			id="tito-buffertab-context-save-all"
+			label="Save All"
+			oncommand="ko.commands.doCommandAsync('cmd_saveAll', event);"
+		  />
+		  
+	  </menupopup>
+</overlay>
